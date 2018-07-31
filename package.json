@@ -1,0 +1,26 @@
+{
+  "name": "bubblesort",
+  "version": "1.0.0",
+  "description": "bubble sort with npm test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DLeaguer/bubbleSort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DLeaguer/bubbleSort/issues"
+  },
+  "homepage": "https://github.com/DLeaguer/bubbleSort#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
